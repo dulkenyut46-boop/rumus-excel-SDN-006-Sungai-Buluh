@@ -1,0 +1,6 @@
+{
+  "name": "RUMUS EXCEL SDN 006",
+  "description": "Platform edukasi dan penerapan rumus Excel interaktif untuk percepat pengolahan data administrasi guru dan lembar kerja SDN 006.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
